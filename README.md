@@ -45,6 +45,5 @@ The dataset used for this project contains historical information about bank cus
 
 ## Links: 
 1.  [View on Google colab](https://colab.research.google.com/drive/1wcOLmV_z0Yt_vOT-bWkJpq3MGXf9gMQ1?usp=sharing)
-2.  [View on nbviewer](https://nbviewer.org/github/zaihl/BANK_CHURN_PREDICTION/blob/main/Bank_Churn_Prediction.ipynb)
 
 
